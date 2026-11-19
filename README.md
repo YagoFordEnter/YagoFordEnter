@@ -1,22 +1,24 @@
-<!-- HERO -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:08080f,50:17132b,100:0d1117&height=210&section=header&text=YAGO%20SANTOS%20SILVA&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=SOFTWARE%20ENGINEERING%20%2F%20CREATIVE%20DEVELOPMENT&descSize=13&descColor=a78bfa&descAlignY=57&animation=fadeIn" />
+<!-- HERO BANNER -->
+<p align="center">
+  <img width="100%" src="./assets/tomioka-calmaria.svg" alt="Yago Santos Silva - Water Breathing Dead Calm Banner" />
+</p>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=650&lines=Software+Engineer+in+Progress;Python+%7C+Java+%7C+Flutter;UI%2FUX+Design+%7C+Design+Systems;Exploring+3D+Web+%26+Creative+Coding" alt="Animated introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=700&lines=Backend+%26+AI+Systems+Engineer;Java+Spring+Boot+%7C+Python+%7C+Next.js+%7C+Flutter;Cloud+Architecture+(AWS+%26+Azure)+%7C+Data+Pipelines;PICTA+2026+Researcher+%E2%80%94+Digital+Accessibility" alt="Animated introduction" />
 
 <br/>
 
-**Software Development · UI/UX · Creative Technology**
+**Software Engineering · AI Orchestration · Cloud & Data Systems**
 
-Construindo experiências digitais que unem engenharia, estética e funcionalidade.
+Arquitetando sistemas resilientes, pipelines de dados seguros e interfaces acessíveis com precisão técnica.
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=a78bfa)](https://www.linkedin.com/in/yago-santos-silva-aa3233245)
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-0d1117?style=for-the-badge&logo=vercel&logoColor=a78bfa)](https://portfolio-opal-omega-7kjyjot4r6.vercel.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=a78bfa)](https://github.com/yago-silva-ads)
-[![Contact](https://img.shields.io/badge/CONTACT-0d1117?style=for-the-badge&logo=gmail&logoColor=a78bfa)](mailto:yagosantossilva0@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-091326?style=for-the-badge&logo=linkedin&logoColor=38BDF8)](https://www.linkedin.com/in/yago-santos-silva-aa3233245)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-091326?style=for-the-badge&logo=vercel&logoColor=38BDF8)](https://portfolio-opal-omega-7kjyjot4r6.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-091326?style=for-the-badge&logo=github&logoColor=38BDF8)](https://github.com/YagoFordEnter)
+[![Contact](https://img.shields.io/badge/CONTACT-091326?style=for-the-badge&logo=gmail&logoColor=38BDF8)](mailto:yagosantossilva0@gmail.com)
 
 </div>
 
@@ -24,225 +26,75 @@ Construindo experiências digitais que unem engenharia, estética e funcionalida
 
 <h2 align="center">01 / About Me</h2>
 
-<div align="center">
-  
-Estudante de Análise e Desenvolvimento de Sistemas no Centro Universitário Senac, explorando a interseção entre **engenharia de software, design de interfaces e experiências digitais**.
+Estudante de **Análise e Desenvolvimento de Sistemas** no Centro Universitário Senac (Campus Jurubatuba), focado na construção de **sistemas backend distribuídos, plataformas com IA em tempo real, engenharia de dados e acessibilidade digital**.
 
-</div>
-
-Meu foco é desenvolver produtos digitais que combinem código bem estruturado, interfaces intuitivas e experiências visualmente marcantes.
-
-- Desenvolvimento de aplicações com Java, Python e Flutter.
-- Exploração de UI/UX, prototipação e design systems.
-- Interesse em interfaces 3D, visualização interativa e creative coding.
-- Pesquisa científica em acessibilidade digital para Smart Homes.
-- Desenvolvimento de automações, integrações e ferramentas com IA.
+- Desenvolvimento de APIs e microsserviços com **Java (Spring Boot)** e **Python**.
+- Construção de interfaces modernas e responsivas com **Next.js, TypeScript, Angular e Flutter**.
+- Arquitetura de ingestão de dados com governança de PII, **SQLite, PostgreSQL, Azure e AWS**.
+- Pesquisa científica (**PICTA 2026**) em acessibilidade digital (**WCAG 2.2 / eMAG 3.1**) para Smart Homes.
 
 ---
 
-<h2 align="center">02 / Creative Technology</h2>
+<h2 align="center">02 / Core Engineering Stack</h2>
 
 <div align="center">
 
-| Área | Foco |
-|:---|:---|
-| UI/UX Design | Usabilidade, hierarquia visual e experiência do usuário |
-| Interface Design | Layouts, tipografia, grids e composição visual |
-| Design Systems | Componentes reutilizáveis, consistência e tokens |
-| 3D & Web Experiences | Exploração de ambientes 3D e interfaces imersivas |
-| Motion & Interaction | Microinterações, transições e feedback visual |
-| Creative Development | Experiências visuais construídas com código |
-| Accessibility | Interfaces inclusivas e padrões de acessibilidade |
+**Backend & AI Systems**
 
-</div>
-
-<div align="center">
-
-![Figma](https://img.shields.io/badge/Figma-0d1117?style=for-the-badge&logo=figma&logoColor=F24E1E)
-![Blender](https://img.shields.io/badge/Blender-0d1117?style=for-the-badge&logo=blender&logoColor=E87D0D)
-![Three.js](https://img.shields.io/badge/Three.js-0d1117?style=for-the-badge&logo=threedotjs&logoColor=ffffff)
-![Spline](https://img.shields.io/badge/Spline-0d1117?style=for-the-badge&logo=spline&logoColor=a78bfa)
-![Framer](https://img.shields.io/badge/Framer-0d1117?style=for-the-badge&logo=framer&logoColor=ffffff)
-
-<sub>Ferramentas de interesse e exploração em design, 3D e experiências interativas.</sub>
-
-</div>
-
----
-
-<h2 align="center">03 / Engineering Stack</h2>
-
-<div align="center">
-
-**Languages & Backend**
-
-![Java](https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-0d1117?style=for-the-badge&logo=springboot&logoColor=6DB33F)
-![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB)
-![SQL](https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+![Java](https://img.shields.io/badge/Java_21-091326?style=for-the-badge&logo=openjdk&logoColor=38BDF8)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-091326?style=for-the-badge&logo=springboot&logoColor=38BDF8)
+![Python](https://img.shields.io/badge/Python-091326?style=for-the-badge&logo=python&logoColor=38BDF8)
+![FastAPI](https://img.shields.io/badge/AI_Orchestration-091326?style=for-the-badge&logo=openai&logoColor=38BDF8)
 
 **Frontend & Mobile**
 
-![Angular](https://img.shields.io/badge/Angular-0d1117?style=for-the-badge&logo=angular&logoColor=DD0031)
-![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![Flutter](https://img.shields.io/badge/Flutter-0d1117?style=for-the-badge&logo=flutter&logoColor=02569B)
-![Dart](https://img.shields.io/badge/Dart-0d1117?style=for-the-badge&logo=dart&logoColor=0175C2)
+![Next.js](https://img.shields.io/badge/Next.js-091326?style=for-the-badge&logo=nextdotjs&logoColor=38BDF8)
+![TypeScript](https://img.shields.io/badge/TypeScript-091326?style=for-the-badge&logo=typescript&logoColor=38BDF8)
+![Angular](https://img.shields.io/badge/Angular-091326?style=for-the-badge&logo=angular&logoColor=38BDF8)
+![Flutter](https://img.shields.io/badge/Flutter-091326?style=for-the-badge&logo=flutter&logoColor=38BDF8)
 
-**Data, Cloud & Tools**
+**Cloud, Data & DevOps**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=4169E1)
-![Supabase](https://img.shields.io/badge/Supabase-0d1117?style=for-the-badge&logo=supabase&logoColor=3FCF8E)
-![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=2496ED)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0d1117?style=for-the-badge&logo=githubactions&logoColor=2088FF)
-![Gemini AI](https://img.shields.io/badge/Gemini_AI-0d1117?style=for-the-badge&logo=google&logoColor=8E75B2)
-
-</div>
-
----
-
-<h2 align="center">04 / Selected Projects</h2>
-
-### [01 — Caçador de Vagas](https://github.com/yago-silva-ads/cacador-de-vagas)
-
-**Automation · Python · Artificial Intelligence**
-
-Sistema de automação para coleta e análise de oportunidades profissionais.
-
-- Web scraping e processamento de informações.
-- Personalização de currículos com apoio de IA.
-- Persistência de dados com SQLite.
-- Automação de rotinas com GitHub Actions.
-
-`Python` `SQLite` `Gemini` `GitHub Actions`
-
-### [02 — App CIC](https://github.com/yago-silva-ads/app-cic)
-
-**Mobile Development · Product Experience**
-
-Aplicação voltada à rastreabilidade de produtos e à gestão no varejo.
-
-- Desenvolvimento mobile multiplataforma.
-- Identificação por GTIN-13 e QR Code.
-- Integração com Supabase.
-- Exploração de recursos de IA para apoio à precificação.
-
-`Flutter` `Dart` `Supabase`
-
-### [03 — Sistema Milhão](https://github.com/yago-silva-ads/sistema-milhao)
-
-**Full-Stack Development · Financial Software**
-
-Sistema financeiro com frontend e backend separados.
-
-- Backend com Java e Spring Boot.
-- Interface web com Angular.
-- Integração com APIs REST.
-- Estruturação de dados financeiros.
-
-`Java` `Spring Boot` `Angular` `SQL`
-
-### [04 — Porto House](https://porto-house-acabamentos.vercel.app/)
-
-**Web Design · Client Project**
-
-Site desenvolvido e publicado para um cliente real.
-
-- Construção de interface responsiva.
-- Organização visual de produtos e conteúdo.
-- Aplicação de princípios de design web.
-- Publicação e disponibilização online.
-
-`HTML` `CSS` `Tailwind CSS` `Vercel`
-
----
-
-<h2 align="center">05 / Research & Accessibility</h2>
-
-<div align="center">
-
-**PICTA 2026 — Acessibilidade em Smart Homes**
-
-</div>
-
-Pesquisa científica sobre acessibilidade em interfaces de automação residencial.
-
-- Avaliação de interfaces de plataformas como Home Assistant e openHAB.
-- Utilização de Axe DevTools, Lighthouse e WAVE.
-- Testes manuais com navegação por teclado e leitor de tela NVDA.
-- Referências às diretrizes WCAG 2.2 e eMAG 3.1.
-
-**Focus:** Accessibility · Quality Assurance · Human-Computer Interaction · IoT
-
----
-
-<h2 align="center">06 / Education & Certifications</h2>
-
-**Centro Universitário Senac**
-
-Tecnólogo em Análise e Desenvolvimento de Sistemas.
-
-- Pesquisa científica pelo PICTA 2026.
-- Participação em projeto de extensão universitária com o App CIC.
-
-**Ford Enter — SENAI & Rede Cidadã**
-
-Formação complementar em tecnologia e desenvolvimento profissional.
-
-**Cursos e certificações registrados**
-
-- Análise de Dados com Python — Centro Universitário Senac.
-- Fundamentos de UX — Centro Universitário Senac.
-- Internet das Coisas (IoT) — Centro Universitário Senac.
-- Database Design — Oracle Database Academy.
-- Database Foundations — Oracle Database Academy.
-- Letramento Digital — Centro Universitário Senac.
-- Desenvolvedor de Sistemas de Tecnologia da Informação — Centro Universitário Senac.
-- Google AI Essentials — formação complementar.
-
----
-
-<h2 align="center">07 / Currently Exploring</h2>
-
-<div align="center">
-
-| Área | Objetivo |
-|:---|:---|
-| Python | Algoritmos, automação e análise de dados |
-| UI/UX | Prototipação, usabilidade e design systems |
-| 3D Web | Three.js, Spline e experiências imersivas |
-| Motion Design | Animações e microinterações |
-| Software Quality | Testes automatizados e boas práticas |
-| Cloud | Fundamentos de AWS e Azure |
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-091326?style=for-the-badge&logo=postgresql&logoColor=38BDF8)
+![SQLite](https://img.shields.io/badge/SQLite-091326?style=for-the-badge&logo=sqlite&logoColor=38BDF8)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-091326?style=for-the-badge&logo=microsoftazure&logoColor=38BDF8)
+![AWS](https://img.shields.io/badge/AWS-091326?style=for-the-badge&logo=amazonaws&logoColor=38BDF8)
+![Docker](https://img.shields.io/badge/Docker-091326?style=for-the-badge&logo=docker&logoColor=38BDF8)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-091326?style=for-the-badge&logo=githubactions&logoColor=38BDF8)
 
 </div>
 
 ---
 
-<h2 align="center">08 / GitHub Analytics</h2>
+<h2 align="center">03 / Featured Systems & Products</h2>
+
+| Projeto | Arquitetura & Impacto | Stack |
+|:---|:---|:---|
+| **[VoiceBridge AI](https://github.com/YagoFordEnter)** | Copiloto multilíngue em tempo real para reuniões e entrevistas técnicas (Brasil & Internacional) com transcrição Whisper e teleprompter inteligente | `Python` `Next.js` `Whisper` `Groq/LLM` |
+| **[Captador & QG Analytics](https://github.com/YagoFordEnter)** | Pipeline modular de ingestão Meta/Webhooks com deduplicação determinística (`SHA-256`), minimização de PII e painéis públicos via Azure `$web` | `Python` `SQLite` `PostgreSQL` `Azure` |
+| **[Sistema Milhão](https://github.com/YagoFordEnter)** | Plataforma SaaS full-stack com autenticação JWT, persistência relacional e painel operacional | `Java` `Spring Boot` `Angular` `PostgreSQL` |
+| **[App CIC](https://github.com/YagoFordEnter)** | Aplicativo mobile de rastreabilidade de inventário no varejo com padrão GS1 / GTIN-13 e apoio à precificação | `Flutter` `Dart` `Supabase` |
+
+---
+
+<h2 align="center">04 / Research & Certifications</h2>
+
+- **PICTA 2026 — Centro Universitário Senac:** Iniciação Científica avaliando acessibilidade em interfaces de Smart Homes com **Axe DevTools, Lighthouse, WAVE e NVDA** (`WCAG 2.2` / `eMAG 3.1`).
+- **Certificações & Programas:** AWS Academy Cloud Foundations, Santander 2026 AI Java Back-end, Projeto Ford Enter (SENAI Ipiranga & Rede Cidadã), Oracle Academy Database Design & Foundations, Google AI Essentials.
+
+---
+
+<h2 align="center">05 / GitHub Analytics</h2>
 
 <div align="center">
 
-<img height="165" src="https://github-stats-extended.vercel.app/api?username=yago-silva-ads&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=f8fafc&rank_icon=github" />
-
-<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=yago-silva-ads&layout=compact&langs_count=8&hide=HTML&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=f8fafc" />
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=YagoFordEnter&show_icons=true&include_all_commits=true&hide_border=true&bg_color=091326&title_color=38BDF8&icon_color=1D4ED8&text_color=F8FAFC&rank_icon=github" />
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=YagoFordEnter&layout=compact&langs_count=8&hide=HTML&hide_border=true&bg_color=091326&title_color=38BDF8&text_color=F8FAFC" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=yago-silva-ads&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=f8fafc&currStreakNum=f8fafc&sideNums=f8fafc&dates=a78bfa" />
+<img src="https://streak-stats.demolab.com/?user=YagoFordEnter&hide_border=true&background=091326&ring=1D4ED8&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=F8FAFC&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=38BDF8" />
 
 </div>
 
----
-
-<h2 align="center">09 / Let's Connect</h2>
-
-<div align="center">
-
-Aberto a oportunidades de estágio, desenvolvimento de software, Python, UI/UX, QA e projetos criativos com tecnologia.
-
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=a78bfa)](https://www.linkedin.com/in/yago-santos-silva-aa3233245)
-[![Portfolio](https://img.shields.io/badge/Explore_My_Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=a78bfa)](https://portfolio-opal-omega-7kjyjot4r6.vercel.app/)
-
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:08080f,50:17132b,100:0d1117&height=110&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:030712,50:0F294A,100:1D4ED8&height=110&section=footer" />
